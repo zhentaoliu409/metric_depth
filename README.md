@@ -9,7 +9,7 @@ ultralytics 8.3.19
 torchvision: 0.14.1  
 CUDA version: 11.7   
 Python 3.10.15  
-![2](/assets/1.png)
+![2](/assets/4.png)
 ## Usage  
 
 ###
