@@ -1,5 +1,5 @@
 # Pothole Repair 
-![1](https://github.com/user-attachments/assets/91831463-53ce-44e8-b98f-491037be84b6)
+![1](/assets/pothole-repair.png)
 ## Environment  
 matplotlib: 3.9.2  
 opencv-python: 4.10.0  
@@ -9,7 +9,7 @@ ultralytics 8.3.19
 torchvision: 0.14.1  
 CUDA version: 11.7   
 Python 3.10.15  
-
+![2](/assets/1.png)
 ## Usage  
 
 ###
