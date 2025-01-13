@@ -1,5 +1,5 @@
 # Pothole Repair 
-![1](/assets/pothole-repair.png)
+![1](/assets/5.png)
 ## Environment  
 matplotlib: 3.9.2  
 opencv-python: 4.10.0  
