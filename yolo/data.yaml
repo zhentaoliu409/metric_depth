@@ -1,0 +1,15 @@
+train: ./train/images
+val: ./valid/images
+test: ./test/images
+
+nc: 1
+names: ['Pothole']
+
+# Segmentation
+segment: True  # indicate this is a segmentation dataset
+
+# Paths to labels
+train_labels: ./train/labels
+val_labels: ./valid/labels
+test_labels: ./test/labels
+
